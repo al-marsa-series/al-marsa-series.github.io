@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   
   <url>
-    <loc>https://al-marsa-series.github.io/tv/</loc>
+    <loc>https://al-marsa-series.github.io/</loc>
     <lastmod>2026-01-28</lastmod>
-    <changefreq>daily</changefreq>
+    <changefreq>hourly</changefreq>
     <priority>1.0</priority>
+    
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/lw0vcw1JaXM/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>مسلسل المرسى الحلقة 79 كاملة HD | بث مباشر</video:title>
+      <video:description>شاهد الآن مسلسل المرسى الحلقة 79 كاملة بجودة عالية HD. ملخص أحداث القبطان سلطان وزياد.</video:description>
+      <video:content_loc>https://www.youtube.com/embed/lw0vcw1JaXM</video:content_loc>
+      <video:player_loc>https://al-marsa-series.github.io/</video:player_loc>
+      <video:duration>1860</video:duration>
+      <video:publication_date>2026-01-28T04:00:00+03:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+      <video:live>yes</video:live>
+    </video:video>
   </url>
 
-  <url>
-    <loc>https://al-marsa-series.github.io/tv/al-marsa-episode-79</loc>
-    <lastmod>2026-01-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  
 </urlset>
