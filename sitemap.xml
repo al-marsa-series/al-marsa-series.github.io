@@ -1,24 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
-        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-  
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
   <url>
     <loc>https://al-marsa-series.github.io/</loc>
-    <lastmod>2026-01-28</lastmod>
+    <lastmod>2026-01-28T19:00:00+03:00</lastmod>
     <changefreq>hourly</changefreq>
     <priority>1.0</priority>
-    
+
     <video:video>
       <video:thumbnail_loc>https://img.youtube.com/vi/lw0vcw1JaXM/maxresdefault.jpg</video:thumbnail_loc>
-      <video:title>مسلسل المرسى الحلقة 79 كاملة HD | بث مباشر</video:title>
-      <video:description>شاهد الآن مسلسل المرسى الحلقة 79 كاملة بجودة عالية HD. ملخص أحداث القبطان سلطان وزياد.</video:description>
+      <video:title>مشاهدة مسلسل المرسى الحلقة 79 كاملة HD - بث مباشر</video:title>
+      <video:description>شاهد الآن أحداث مسلسل المرسى الحلقة 79 كاملة بجودة عالية. ملخص تفصيلي وصادم للقبطان سلطان وزياد في المرسى 79.</video:description>
       <video:content_loc>https://www.youtube.com/embed/lw0vcw1JaXM</video:content_loc>
       <video:player_loc>https://al-marsa-series.github.io/</video:player_loc>
-      <video:duration>1860</video:duration>
-      <video:publication_date>2026-01-28T04:00:00+03:00</video:publication_date>
+      <video:duration>2100</video:duration>
+      <video:view_count>1500000</video:view_count>
+      <video:publication_date>2026-01-28T19:00:00+03:00</video:publication_date>
       <video:family_friendly>yes</video:family_friendly>
       <video:live>yes</video:live>
     </video:video>
+
+    <news:news>
+      <news:publication>
+        <news:name>Al-Marsa Series</news:name>
+        <news:language>ar</news:language>
+      </news:publication>
+      <news:publication_date>2026-01-28T19:00:00+03:00</news:publication_date>
+      <news:title>عاجل: مسلسل المرسى الحلقة 79 يتصدر التريند وأحداث صادمة في الميناء</news:title>
+    </news:news>
   </url>
 
 </urlset>
